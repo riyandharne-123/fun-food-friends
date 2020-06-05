@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fun-food-friends/static/css/main.a5853c71.chunk.css",
+    "main.js": "/fun-food-friends/static/js/main.637119ca.chunk.js",
+    "main.js.map": "/fun-food-friends/static/js/main.637119ca.chunk.js.map",
+    "runtime-main.js": "/fun-food-friends/static/js/runtime-main.9a246f31.js",
+    "runtime-main.js.map": "/fun-food-friends/static/js/runtime-main.9a246f31.js.map",
+    "static/js/2.e6e4e19b.chunk.js": "/fun-food-friends/static/js/2.e6e4e19b.chunk.js",
+    "static/js/2.e6e4e19b.chunk.js.map": "/fun-food-friends/static/js/2.e6e4e19b.chunk.js.map",
+    "index.html": "/fun-food-friends/index.html",
+    "precache-manifest.1288c48b31d5483b021a99661411b7cc.js": "/fun-food-friends/precache-manifest.1288c48b31d5483b021a99661411b7cc.js",
+    "service-worker.js": "/fun-food-friends/service-worker.js",
+    "static/css/main.a5853c71.chunk.css.map": "/fun-food-friends/static/css/main.a5853c71.chunk.css.map",
+    "static/js/2.e6e4e19b.chunk.js.LICENSE.txt": "/fun-food-friends/static/js/2.e6e4e19b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fun-food-friends/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a246f31.js",
+    "static/js/2.e6e4e19b.chunk.js",
+    "static/css/main.a5853c71.chunk.css",
+    "static/js/main.637119ca.chunk.js"
+  ]
+}
